@@ -3,7 +3,7 @@
 ----
 
 
-# (App_Name) | Hotel Reservation Management System
+# App_Name: | Hotel Reservation Management System
 
   .......
 ### المقدمــة | Introduction 
