@@ -37,6 +37,4 @@ https://hotelreservationmanagement20210619233317.azurewebsites.net/
  - EF Core
 ### Author
  اروى وان لا 
-### License & Resource
- ......
-</div>
+
